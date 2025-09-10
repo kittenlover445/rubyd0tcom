@@ -1,0 +1,34 @@
+@font-face {
+  font-family: Poppins;
+  src: url(fonts/Poppins-SemiBoldItalic.ttf);
+}
+
+
+body {
+    background-color: #fff6e9;
+    overflow:hidden;
+    left: 0;
+    margin: 0;
+    font-family: Poppins;
+  
+}
+
+.txt{
+  text-align: center;
+}
+
+.desktop{
+  width: 100%;
+  height: 100vh;
+}
+
+.goldfrog {
+  background-image: url(images/goldfrog.webp);
+  background-size: 20vh 20vh;
+  background-repeat: no-repeat;
+  width: 20vh;
+  height: 20vh;
+  margin: auto;
+}
+
+
